@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335299632046",
+    "project_id": "donate-kart",
+    "storage_bucket": "donate-kart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335299632046:android:3330cc6d5596235f31863f",
+        "android_client_info": {
+          "package_name": "com.example.donate_kart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335299632046-jqp1culh6o89dv78jslml4sur2p1cb3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ-N4DtwfKHXgEppNwnoMJRlEj4yRhsXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335299632046-jqp1culh6o89dv78jslml4sur2p1cb3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
